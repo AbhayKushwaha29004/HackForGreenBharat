@@ -1,4 +1,4 @@
-# 🚀 Vision-Distill: DINOv2-Powered Semantic Segmentation
+# High-Fidelity Offroad Terrain Segmentation
 
 An advanced, high-efficiency Semantic Segmentation pipeline leveraging the power of **Meta AI’s DINOv2** foundation model. This project achieves state-of-the-art pixel-level accuracy using self-supervised feature distillation on consumer-grade hardware.
 
